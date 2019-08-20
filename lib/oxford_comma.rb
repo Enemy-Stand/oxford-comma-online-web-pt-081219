@@ -4,6 +4,6 @@ def oxford_comma(array)
 end
 
 def oxford_comma(array)
-  array = ["kiwi", "durian"]
-  array.join(" and ")
+  array2 = ["kiwi", "durian"]
+  array2.join(" and ")
 end
